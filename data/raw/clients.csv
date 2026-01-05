@@ -1,0 +1,51 @@
+client_id,company_name,manufacturer_size,sector
+CLI0001,Smart Meters Ltd,SME,Multi-sector
+CLI0002,Central Technologies GmbH,Large,Utilities
+CLI0003,Smart Manufacturing GmbH,SME,Energy
+CLI0004,Alpha Meters GmbH,SME,Transportation
+CLI0005,Nordic Technologies Ltd,SME,Retail Fuel
+CLI0006,Euro Manufacturing GmbH,SME,Multi-sector
+CLI0007,Apex Devices GmbH,Large,Energy
+CLI0008,Premier Meters Ltd,SME,Energy
+CLI0009,Advanced Devices GmbH,SME,Utilities
+CLI0010,Precision Technologies Ltd,SME,Energy
+CLI0011,United Instruments GmbH,SME,Energy
+CLI0012,Smart Metering Ltd,SME,Energy
+CLI0013,Premier Meters Ltd,SME,Retail Fuel
+CLI0014,Apex Instruments Ltd,SME,Utilities
+CLI0015,Metro Instruments Ltd,SME,Energy
+CLI0016,First Industries GmbH,SME,Energy
+CLI0017,Tech Meters Ltd,SME,Transportation
+CLI0018,Allied Instruments Ltd,Large,Retail Fuel
+CLI0019,Smart Devices GmbH,SME,Energy
+CLI0020,First Systems GmbH,Large,Utilities
+CLI0021,Nordic Solutions Ltd,SME,Utilities
+CLI0022,Tech Industries Ltd,SME,Transportation
+CLI0023,Apex Technologies GmbH,SME,Utilities
+CLI0024,Metro Solutions Ltd,SME,Utilities
+CLI0025,Apex Technologies Ltd,SME,Energy
+CLI0026,Global Technologies Ltd,Large,Retail Fuel
+CLI0027,United Devices GmbH,Large,Transportation
+CLI0028,Nordic Industries Ltd,SME,Transportation
+CLI0029,United Technologies Ltd,SME,Energy
+CLI0030,Metro Engineering GmbH,SME,Energy
+CLI0031,Precision Technologies Ltd,SME,Energy
+CLI0032,Apex Solutions Ltd,Large,Energy
+CLI0033,Alpha Industries GmbH,SME,Utilities
+CLI0034,Central Systems Ltd,SME,Retail Fuel
+CLI0035,Tech Meters Ltd,SME,Multi-sector
+CLI0036,Precision Systems Ltd,Large,Energy
+CLI0037,Alpha Industries GmbH,SME,Retail Fuel
+CLI0038,Metro Industries Ltd,Large,Retail Fuel
+CLI0039,Nova Solutions Ltd,Large,Energy
+CLI0040,Euro Instruments Ltd,SME,Energy
+CLI0041,Apex Solutions Ltd,Large,Utilities
+CLI0042,United Instruments GmbH,SME,Energy
+CLI0043,Advanced Engineering GmbH,SME,Energy
+CLI0044,Premier Manufacturing Ltd,Large,Utilities
+CLI0045,Nova Instruments Ltd,Large,Utilities
+CLI0046,Allied Manufacturing Ltd,SME,Retail Fuel
+CLI0047,Precision Metering Ltd,Large,Utilities
+CLI0048,Apex Manufacturing Ltd,Large,Utilities
+CLI0049,United Engineering GmbH,SME,Utilities
+CLI0050,First Solutions GmbH,SME,Energy
