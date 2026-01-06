@@ -1,0 +1,17 @@
+failure_reason,mid_module,occurrences,pct_total,checklist_item
+Technical file incomplete,B,48,20.6,Verify technical file contains all sections per MID Annex requirements
+Documentation inconsistencies,B,36,15.5,Cross-check all document references and version numbers
+Test report gaps,B,28,12.0,Confirm test reports cover all applicable MID essential requirements
+Metrological requirements unclear,B,23,9.9,Review metrological characteristics against MID Annex MI-001 to MI-010
+Software documentation missing,B,19,8.2,"Include software architecture, version control, and validation records"
+Durability evidence insufficient,B,15,6.4,Provide durability test results or field performance data
+Marking/labelling non-compliant,B,12,5.2,"Check CE marking, NB number, and instrument labelling requirements"
+EMC test results missing,B,8,3.4,Include EMC test reports per EN 61326 or equivalent
+Management review incomplete,D,8,3.4,Provide recent management review minutes with actions
+Non-conformance handling unclear,D,7,3.0,Document NCR process with examples of recent closures
+Training records missing,D,7,3.0,Verify training records for all personnel in scope
+Internal audit gaps,D,6,2.6,Review internal audit schedule and findings closure
+Calibration records outdated,D,5,2.1,Check calibration status of all measurement equipment
+Supplier control insufficient,D,5,2.1,Include approved supplier list and evaluation records
+Corrective action records missing,D,3,1.3,Document CAPA process with closure evidence
+Production process not documented,D,3,1.3,Map production process with quality control points
